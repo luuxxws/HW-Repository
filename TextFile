@@ -1,0 +1,5 @@
+def add(value1: int, value2 : int):
+    return value1 + value2
+
+test = add(1, 2)
+print(test)
