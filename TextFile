@@ -1,7 +1,7 @@
 def add(value1: int, value2 : int):
     return value1 + value2
 
-test = add(4, 6)
+test = add(12, 6)
 print(test)
 
 monkey = 300
