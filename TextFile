@@ -3,3 +3,5 @@ def add(value1: int, value2 : int):
 
 test = add(4, 6)
 print(test)
+
+monkey = 300
